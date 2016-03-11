@@ -1,6 +1,6 @@
 {
   "name": "mongoose-id",
-  "description": "Mongoose plugin that replace document _id with id",
+  "description": "Mongoose plugin that replaces document _id with id",
   "version": "0.1.1",
   "author": "Lou, Lin <lin.lou@hotmail.com>",
   "keywords": [

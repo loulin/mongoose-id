@@ -1,7 +1,7 @@
 Mongoose id Plugin
 ==========================
 
-Simple plugin for [Mongoose](https://github.com/LearnBoost/mongoose) which replace document attribute _id with id.
+Simple plugin for [Mongoose](https://github.com/LearnBoost/mongoose) which replaces document attribute _id with id.
 
 ## Installation
 
@@ -24,7 +24,7 @@ By default, it will transform the document for both toJSON and toObject methods.
 ```javascript
 mongoose.plugin(idPlugin, 'toJSON');
 ```
-Only transfrom document when call toJSON().
+Only transform document when calling toJSON().
 
 ## License
 
